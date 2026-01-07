@@ -1,0 +1,14 @@
+.env
+/vendor/
+/node_modules/
+/public/uploads/
+
+*.rar
+*.zip
+
+.DS_Store
+Thumbs.db
+
+/.idea/
+/.vscode/
+
